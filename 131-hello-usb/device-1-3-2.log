@@ -3,16 +3,16 @@
 устройство: 2e8a:000a
 серийный номер: E66098F29B6A7732
 порт: /dev/cu.usbmodem1101
-начало: 2026-10-15T17:16:34
-   0.260 <-- Hello, world!
-   1.260 <-- Hello, world!
-   2.260 <-- Hello, world!
-   3.260 <-- Hello, world!
-   4.260 <-- Hello, world!
-   5.260 <-- Hello, world!
-   6.260 <-- Hello, world!
-   7.260 <-- Hello, world!
-   8.260 <-- Hello, world!
-   9.260 <-- Hello, world!
-  10.260 <-- Hello, world!
+начало: 2026-10-15T17:43:44
+   0.148 <-- Hello, world!
+   1.148 <-- Hello, world!
+   2.148 <-- Hello, world!
+   3.148 <-- Hello, world!
+   4.148 <-- Hello, world!
+   5.148 <-- Hello, world!
+   6.148 <-- Hello, world!
+   7.148 <-- Hello, world!
+   8.148 <-- Hello, world!
+   9.148 <-- Hello, world!
+  10.148 <-- Hello, world!
 итог: принято строк 11 за 10.0 с
