@@ -29,7 +29,7 @@ void handle_command(int command)
     }
     else
     {
-        printf("Unknown command: %c\n", command);
+        printf("unknown command: %c\n", command);
     }
 }
 

@@ -36,6 +36,7 @@ bool handle_command(int command, bool led)
     {
         printf("unknown command: %c\n", command);
     }
+
     return led;
 }
 
