@@ -4,6 +4,7 @@
 
 #include "led.h"
 #include "log.h"
+#include "device.h"
 
 const uint BUTTON_PIN = 15;
 
@@ -28,9 +29,13 @@ void handle_command(int command)
         led_set(false);
         LOG_INF("led %s\n", led_is_on() ? "on" : "off");
     }
-        else if (command == 'v')
+    else if (command == 'v')
     {
         log_version();
+    }
+    else if (command == 'i')
+    {
+        device_info();
     }
     else
     {
